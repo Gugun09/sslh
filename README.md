@@ -1,3 +1,3 @@
 # SSLH MultiPort
 
-- wget https://github.com/Gugun09/sslh/edit/main/install && chmod +x install && bash install
+- wget https://raw.githubusercontent.com/Gugun09/sslh/main/install && chmod +x install && bash install
